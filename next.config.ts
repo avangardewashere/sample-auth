@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactStrictMode: true,
   swcMinify: true,
-  output: "export",
+  // output: "export", 
 };
 
 export default nextConfig;
